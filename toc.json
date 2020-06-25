@@ -1,12 +1,12 @@
 {
   "name": "Tailwind CSS",
-  "repository": "",
-  "baseUrl": "",
+  "repository": "https://github.com/tailwindow/component-tailwindcss",
+  "baseUrl": "https://tailwindow.github.io/component-tailwindcss",
   "components": [
     {
-      "name": "",
-      "url": "",
-      "group": "",
+      "name": "Chrome Mac",
+      "url": "/components/flex-layout/chrome-mac",
+      "group": "Flex Layout",
       "thumbnail": "" 
     }
   ]
