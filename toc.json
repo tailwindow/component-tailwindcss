@@ -4,8 +4,8 @@
   "baseUrl": "https://tailwindow.github.io/component-tailwindcss",
   "components": [
     {
-      "group": "Alert 1",
-      "name": "Alert",
+      "group": "Alert",
+      "name": "Alert 1",
       "path": "/components/alert/alert-1",
       "thumbnail": "https://tailwindow.github.io/component-tailwindcss/components/alert/alert-1/thumb.svg" 
     },
