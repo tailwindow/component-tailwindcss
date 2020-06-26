@@ -4,16 +4,22 @@
   "baseUrl": "https://tailwindow.github.io/component-tailwindcss",
   "components": [
     {
-      "group": "Alert",
+      "group": "Alert 1",
       "name": "Alert",
       "path": "/components/alert/alert-1",
       "thumbnail": "https://tailwindow.github.io/component-tailwindcss/components/alert/alert-1/thumb.svg" 
     },
     {
+      "group": "Alert 2",
+      "name": "Alert",
+      "path": "/components/alert/alert-2",
+      "thumbnail": ""
+    },
+    {
       "group": "Alert",
       "name": "Alert Box",
-      "path": "/components/alert/alert-2",
-      "thumbnail": "https://tailwindow.github.io/component-tailwindcss/components/alert/alert-2/thumb.svg" 
+      "path": "/components/alert/alert-box",
+      "thumbnail": "https://tailwindow.github.io/component-tailwindcss/components/alert/alert-box/thumb.svg" 
     },
     {
       "group": "Button",
