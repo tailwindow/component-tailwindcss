@@ -14,6 +14,12 @@
       "path": "/components/flex-layout/chrome-windows-dark",
       "group": "Flex Layout",
       "thumbnail": "" 
+    },
+    {
+      "name": "Alert",
+      "path": "/components/alert/alert-1",
+      "group": "Alert",
+      "thumbnail": "" 
     }
   ]
 }
