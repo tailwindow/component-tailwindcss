@@ -20,6 +20,12 @@
       "path": "/components/alert/alert-1",
       "group": "Alert",
       "thumbnail": "https://tailwindow.github.io/component-tailwindcss/components/alert/alert-1/thumb.svg" 
+    },
+    {
+      "name": "Alert Box",
+      "path": "/components/alert/alert-2",
+      "group": "Alert",
+      "thumbnail": "https://tailwindow.github.io/component-tailwindcss/components/alert/alert-2/thumb.svg" 
     }
   ]
 }

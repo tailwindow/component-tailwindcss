@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="485px" height="298px" viewBox="0 0 485 298" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Alert</title>
+    <g id="Alert" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Alert-2" transform="translate(-73.000000, -171.000000)">
+            <g id="Alert" transform="translate(74.000000, 172.000000)">
+                <g transform="translate(0.000000, 234.000000)">
+                    <rect id="Rectangle" stroke="#9E9E9E" x="0" y="0" width="483" height="62"></rect>
+                    <rect id="Rectangle" fill="#9E9E9E" x="0" y="0" width="64" height="62"></rect>
+                    <rect id="Rectangle" fill="#9E9E9E" x="476" y="0" width="7" height="62"></rect>
+                    <rect id="Rectangle" fill="#757575" x="85" y="22" width="160" height="8" rx="4"></rect>
+                    <rect id="Rectangle" fill="#BDBDBD" x="85" y="36" width="245" height="6" rx="3"></rect>
+                    <text id="x" font-family="Nunito-Bold, Nunito" font-size="24" font-weight="bold" fill="#9E9E9E">
+                        <tspan x="446" y="37">x</tspan>
+                    </text>
+                </g>
+                <g transform="translate(0.000000, 156.000000)">
+                    <rect id="Rectangle" stroke="#9E9E9E" x="0" y="0" width="483" height="62"></rect>
+                    <rect id="Rectangle" fill="#9E9E9E" x="0" y="0" width="64" height="62"></rect>
+                    <rect id="Rectangle" fill="#9E9E9E" x="476" y="0" width="7" height="62"></rect>
+                    <rect id="Rectangle" fill="#757575" x="85" y="22" width="160" height="8" rx="4"></rect>
+                    <rect id="Rectangle" fill="#BDBDBD" x="85" y="36" width="245" height="6" rx="3"></rect>
+                    <text id="x" font-family="Nunito-Bold, Nunito" font-size="24" font-weight="bold" fill="#9E9E9E">
+                        <tspan x="446" y="37">x</tspan>
+                    </text>
+                </g>
+                <g transform="translate(0.000000, 78.000000)">
+                    <rect id="Rectangle" stroke="#9E9E9E" x="0" y="0" width="483" height="62"></rect>
+                    <rect id="Rectangle" fill="#9E9E9E" x="0" y="0" width="64" height="62"></rect>
+                    <rect id="Rectangle" fill="#9E9E9E" x="476" y="0" width="7" height="62"></rect>
+                    <rect id="Rectangle" fill="#757575" x="85" y="22" width="160" height="8" rx="4"></rect>
+                    <rect id="Rectangle" fill="#BDBDBD" x="85" y="36" width="245" height="6" rx="3"></rect>
+                    <text id="x" font-family="Nunito-Bold, Nunito" font-size="24" font-weight="bold" fill="#9E9E9E">
+                        <tspan x="446" y="37">x</tspan>
+                    </text>
+                </g>
+                <g>
+                    <rect id="Rectangle" stroke="#9E9E9E" x="0" y="0" width="483" height="62"></rect>
+                    <rect id="Rectangle" fill="#9E9E9E" x="0" y="0" width="64" height="62"></rect>
+                    <rect id="Rectangle" fill="#9E9E9E" x="476" y="0" width="7" height="62"></rect>
+                    <rect id="Rectangle" fill="#757575" x="85" y="22" width="160" height="8" rx="4"></rect>
+                    <rect id="Rectangle" fill="#BDBDBD" x="85" y="36" width="245" height="6" rx="3"></rect>
+                    <text id="x" font-family="Nunito-Bold, Nunito" font-size="24" font-weight="bold" fill="#9E9E9E">
+                        <tspan x="446" y="37">x</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
