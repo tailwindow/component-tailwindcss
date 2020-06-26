@@ -13,7 +13,7 @@
       "group": "Alert",
       "name": "Alert 2",
       "path": "/components/alert/alert-2",
-      "thumbnail": ""
+      "thumbnail": "https://tailwindow.github.io/component-tailwindcss/components/alert/alert-2/thumb.svg"
     },
     {
       "group": "Alert",
@@ -25,7 +25,7 @@
       "group": "Button",
       "name": "Button with vertical icon",
       "path": "/components/button/button-with-vertical-icon",
-      "thumbnail": ""
+      "thumbnail": "https://tailwindow.github.io/component-tailwindcss/components/button/button-with-vertical-icon/thumb.svg"
     },
     {
       "group": "Flex Layout",
