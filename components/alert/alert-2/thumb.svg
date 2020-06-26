@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="483px" height="160px" viewBox="0 0 483 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="Alert" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Alert-1" transform="translate(-78.000000, -172.000000)">
+            <g id="Group-2" transform="translate(78.000000, 172.000000)">
+                <g id="Group">
+                    <path d="M80,0 L403,0 C447.18278,-8.11624501e-15 483,35.81722 483,80 C483,124.18278 447.18278,160 403,160 L194.809331,160 L80,160 C35.81722,160 5.41083001e-15,124.18278 0,80 C-5.41083001e-15,35.81722 35.81722,8.11624501e-15 80,0 Z" id="Rectangle" fill="#9E9E9E"></path>
+                    <rect id="Rectangle" fill="#757575" x="190" y="33" width="160" height="8" rx="4"></rect>
+                    <rect id="Rectangle" fill="#EEEEEE" x="120" y="87" width="245" height="5" rx="2.5"></rect>
+                    <rect id="Rectangle" fill="#EEEEEE" x="101" y="65" width="282" height="1" rx="0.5"></rect>
+                    <rect id="Rectangle" fill="#EEEEEE" x="101" y="103" width="282" height="5" rx="2.5"></rect>
+                    <rect id="Rectangle" fill="#EEEEEE" x="133" y="120" width="218" height="5" rx="2.5"></rect>
+                    <text id="x" font-family="Nunito-Bold, Nunito" font-size="24" font-weight="bold" fill="#BDBDBD">
+                        <tspan x="446" y="37">x</tspan>
+                    </text>
+                    <circle id="Oval" fill="#757575" cx="149" cy="37" r="16"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
