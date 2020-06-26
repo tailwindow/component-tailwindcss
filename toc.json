@@ -4,28 +4,34 @@
   "baseUrl": "https://tailwindow.github.io/component-tailwindcss",
   "components": [
     {
-      "name": "Chrome Mac",
-      "path": "/components/flex-layout/chrome-mac",
-      "group": "Flex Layout",
-      "thumbnail": "" 
-    },
-    {
-      "name": "Chrome Windows Dark",
-      "path": "/components/flex-layout/chrome-windows-dark",
-      "group": "Flex Layout",
-      "thumbnail": "" 
-    },
-    {
+      "group": "Alert",
       "name": "Alert",
       "path": "/components/alert/alert-1",
-      "group": "Alert",
       "thumbnail": "https://tailwindow.github.io/component-tailwindcss/components/alert/alert-1/thumb.svg" 
     },
     {
+      "group": "Alert",
       "name": "Alert Box",
       "path": "/components/alert/alert-2",
-      "group": "Alert",
       "thumbnail": "https://tailwindow.github.io/component-tailwindcss/components/alert/alert-2/thumb.svg" 
+    },
+    {
+      "group": "Button",
+      "name": "Button with vertical icon",
+      "path": "/components/button/button-with-vertical-icon",
+      "thumbnail": ""
+    },
+    {
+      "group": "Flex Layout",
+      "name": "Chrome Mac",
+      "path": "/components/flex-layout/chrome-mac",
+      "thumbnail": "" 
+    },
+    {
+      "group": "Flex Layout",
+      "name": "Chrome Windows Dark",
+      "path": "/components/flex-layout/chrome-windows-dark",
+      "thumbnail": "" 
     }
   ]
 }
