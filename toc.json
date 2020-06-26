@@ -5,13 +5,13 @@
   "components": [
     {
       "name": "Chrome Mac",
-      "url": "/components/flex-layout/chrome-mac",
+      "path": "/components/flex-layout/chrome-mac",
       "group": "Flex Layout",
       "thumbnail": "" 
     },
     {
       "name": "Chrome Windows Dark",
-      "url": "/components/flex-layout/chrome-windows-dark",
+      "path": "/components/flex-layout/chrome-windows-dark",
       "group": "Flex Layout",
       "thumbnail": "" 
     }
