@@ -10,8 +10,8 @@
       "thumbnail": "https://tailwindow.github.io/component-tailwindcss/components/alert/alert-1/thumb.svg" 
     },
     {
-      "group": "Alert 2",
-      "name": "Alert",
+      "group": "Alert",
+      "name": "Alert 2",
       "path": "/components/alert/alert-2",
       "thumbnail": ""
     },
