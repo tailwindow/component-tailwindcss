@@ -38,6 +38,12 @@
       "name": "Chrome Windows Dark",
       "path": "/components/flex-layout/chrome-windows-dark",
       "thumbnail": "" 
+    },
+    {
+      "group": "Form",
+      "name": "Form Input Text",
+      "path": "/components/form/input-text",
+      "thumbnail": "" 
     }
   ]
 }

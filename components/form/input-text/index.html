@@ -1,0 +1,107 @@
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tailwindow - Form</title>
+  <link rel="stylesheet" href="../../../build/tailwind.css">
+</head>
+
+<body>
+  <!-- Start Flex Container -->
+  <div class="container mx-auto p-4">
+    <!-- row -->
+    <div class="flex flex-row flex-wrap -mx-4">
+      <!-- Start Col Input Type -->
+      <div class="px-4 w-full sm:w-1/2 md:w-1/3">
+        <p class="text-sm font-light">Input Type</p>
+        <hr class="my-2">
+        <div class="mb-2">
+          <label for="regular" class="text-sm leading-7 text-gray-700">Regular Input</label>
+          <input id="regular" type="text" class="block w-full border border-gray-400 py-1 px-4 text-gray-700 text-md focus:outline-none focus:border-gray-500" placeholder="Regular input text">
+        </div>
+        <div class="mb-2">
+          <label for="required" class="text-sm leading-7 text-gray-700">Required Input</label>
+          <span class="text-red-900">*</span>
+          <input id="required" type="text" required class="block w-full border border-gray-400 py-1 px-4 text-gray-700 text-md focus:outline-none focus:border-gray-500" placeholder="Required text">
+        </div>
+        <div class="mb-2">
+          <label for="password" class="text-sm leading-7 text-gray-700">Input With Help Message</label>
+          <input id="password" type="password" class="block w-full border border-gray-400 py-1 px-4 text-gray-700 text-md focus:outline-none focus:border-gray-500" placeholder="Password">
+          <span class="text-gray-600 text-xs">Must be at least 8 characters</span>
+        </div>
+        <div class="mb-2">
+          <label for="disabled" class="text-sm leading-7 text-gray-700">Disabled</label>
+          <input id="disabled" type="text" class="block w-full border border-gray-400 py-1 px-4 text-gray-700 text-md focus:outline-none focus:border-gray-500 bg-gray-400 cursor-not-allowed" placeholder="Disabled input here" disabled>
+        </div>
+        <div class="mb-2">
+          <label for="readonly" class="text-sm leading-7 text-gray-700">Read only</label>
+          <input id="readonly" type="text" class="block w-full py-1 text-gray-700 text-md focus:outline-none focus:border-gray-500" value="Readonly input here" readonly>
+        </div>
+        <div class="mb-2">
+          <label for="textarea" class="text-sm leading-7 text-gray-700">Text Area</label>
+          <textarea id="textarea" cols="30" rows="3" class="block w-full border border-gray-400 py-1 px-4 text-gray-700 text-md focus:outline-none focus:border-gray-500" placeholder="Tell us your story"></textarea>
+        </div>
+      </div>
+      <!-- End Col Input Type -->
+
+      <!-- Start Col Border Type -->
+      <div class="px-4 w-full sm:w-1/2 md:w-1/3">
+        <p class="text-sm font-light">Border Type</p>
+        <hr class="my-2">
+        <div class="mb-2">
+          <label for="square-text" class="text-sm leading-7 text-gray-700">Square</label>
+          <input id="square-text" type="text" class="block w-full border border-gray-400 py-1 px-4 text-gray-700 text-md focus:outline-none focus:border-gray-500" placeholder="Square">
+        </div>
+        <!-- <div class="mb-2">
+          <label for="rounded-sm-text" class="text-sm leading-7 text-gray-700">Rounded Small</label>
+          <input id="rounded-sm-text" type="text" class="block w-full border border-gray-400 rounded-sm py-1 px-4 text-gray-700 text-md focus:outline-none focus:border-gray-500" placeholder="Rounded Small">
+        </div> -->
+        <div class="mb-2">
+          <label for="rounded-md-text" class="text-sm leading-7 text-gray-700">Rounded</label>
+          <input id="rounded-md-text" type="text" class="block w-full border border-gray-400 rounded-md py-1 px-4 text-gray-700 text-md focus:outline-none focus:border-gray-500" placeholder="Rounded">
+        </div>
+        <!-- <div class="mb-2">
+          <label for="rounded-lg-text" class="text-sm leading-7 text-gray-700">Rounded Large</label>
+          <input id="rounded-lg-text" type="text" class="block w-full border border-gray-400 rounded-lg py-1 px-4 text-gray-700 text-md focus:outline-none focus:border-gray-500" placeholder="Rounded Large">
+        </div> -->
+        <div class="mb-2">
+          <label for="rounded-full-text" class="text-sm leading-7 text-gray-700">Rounded Full</label>
+          <input id="rounded-full-text" type="text" class="block w-full border border-gray-400 rounded-full py-1 px-4 text-gray-700 text-md focus:outline-none focus:border-gray-500" placeholder="Rounded Full">
+        </div>
+        <div class="mb-2">
+          <label for="bottom-line-text" class="text-sm leading-7 text-gray-700">Bottom Line</label>
+          <input id="bottom-line-text" type="text" class="block w-full border-0 border-b border-gray-400 py-1 px-4 text-gray-700 text-md focus:outline-none focus:border-gray-500" placeholder="Bottom Line">
+        </div>
+        <div class="mb-2 relative pt-3">
+          <label for="collapse-text" class="text-xs text-gray-700 absolute top-0 py-1 ml-2 px-2 bg-white select-none">Collapse Text</label>
+          <input id="collapse-text" type="text" class="block w-full border border-gray-400 pt-2 pb-1 px-4 text-gray-700 text-md focus:outline-none focus:border-gray-500" placeholder="Collapse Text">
+        </div>
+      </div>
+      <!-- End Col Border Type -->
+
+      <!-- Start Col Color -->
+      <div class="px-4 w-full sm:w-1/2 md:w-1/3">
+        <p class="text-sm font-light">Color Type</p>
+        <hr class="my-2">
+        <div class="mb-2">
+          <label for="input-success" class="text-xs leading-5 text-green-500">Input Success</label>
+          <input id="input-success" type="text" class="block w-full border border-green-300 py-1 px-4 text-green-900 bg-green-100 placeholder-green-700 focus:outline-none focus:border-green-500" placeholder="Success">
+        </div>
+        <div class="mb-2">
+          <label for="input-warning" class="text-xs leading-5 text-yellow-700">Input Warning</label>
+          <input id="input-warning" type="text" class="block w-full border border-yellow-500 py-1 px-4 text-yellow-900 bg-yellow-200 placeholder-yellow-700 focus:outline-none focus:border-yellow-700" placeholder="Warning">
+        </div>
+        <div class="mb-2">
+          <label for="input-danger" class="text-xs leading-5 text-red-700">Input Danger</label>
+          <input id="input-danger" type="text" class="block w-full border border-red-300 py-1 px-4 text-red-900 bg-red-100 placeholder-red-700 focus:outline-none focus:border-red-500" placeholder="Danger">
+        </div>
+      </div>
+      <!-- EndCol Color -->
+
+    </div>
+  </div>
+  <!-- End Flex Container -->
+</body>
+
+</html>
