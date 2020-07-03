@@ -23,6 +23,12 @@
     },
     {
       "group": "Button",
+      "name": "Regular buttons",
+      "path": "/components/button/",
+      "thumbnail": ""
+    },
+    {
+      "group": "Button",
       "name": "Button with vertical icon",
       "path": "/components/button/button-with-vertical-icon",
       "thumbnail": "https://tailwindow.github.io/component-tailwindcss/components/button/button-with-vertical-icon/thumb.svg"
