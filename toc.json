@@ -34,6 +34,12 @@
       "thumbnail": "https://tailwindow.github.io/component-tailwindcss/components/button/button-with-vertical-icon/thumb.svg"
     },
     {
+      "group": "Button",
+      "name": "Pagination",
+      "path": "/components/button/pagination",
+      "thumbnail": ""
+    },
+    {
       "group": "Flex Layout",
       "name": "Chrome Mac",
       "path": "/components/flex-layout/chrome-mac",
