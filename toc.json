@@ -56,6 +56,18 @@
       "name": "Form Input Text",
       "path": "/components/form/input-text",
       "thumbnail": "" 
+    },
+    {
+      "group": "Footer",
+      "name": "Footer 1",
+      "path": "/components/footer/footer-1",
+      "thumbnail": "" 
+    },
+    {
+      "group": "Footer",
+      "name": "Footer 2",
+      "path": "/components/footer/footer-2",
+      "thumbnail": "" 
     }
   ]
 }
